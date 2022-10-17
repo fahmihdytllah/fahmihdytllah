@@ -17,7 +17,7 @@
 <code><img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" /></code>
   
   
- <img src="https://komarev.com/ghpvc/?username=fahmicog&color=blue&label=Total people who viewed fahmicog's github account" />
+ <img src="https://komarev.com/ghpvc/?username=fahmihdytllah&color=blue&label=Total people who viewed Fahmi Hdytllah github account" />
  <br><br>
 
   Get in touch:<br>
