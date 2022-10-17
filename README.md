@@ -1,7 +1,7 @@
 ![Fahmi Hdytllah](https://cardivo.vercel.app/api?name=Fahmi%20Hdytllah&description=Hi,%20i%27m%20a%20front%20end%20web%20developer%20and%20i%27m%2016%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://i.ibb.co/9VRCKML/1643300046374.jpg=4&backgroundColor=%23ecf0f1&instagram=fahmihdytllah&github=fahmicog&twitter=fahmicog&pattern=leaf&colorPattern=%23eaeaea)
 
 <div align="center">
-  Hello, I am a beginner Programmer. I have experience as a web developer both backend and frontend in developing web applications.<br><br>
+  Hello, I am a Full Stack Developer. I have experience as a web developer both backend and frontend in developing web applications.<br><br>
   
 <code><img src="https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=Laravel" /></code>
 <code><img src="https://img.shields.io/badge/-Express.Js-black?style=flat-square&logo=Express" /></code>
