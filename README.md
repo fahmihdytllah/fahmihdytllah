@@ -30,7 +30,6 @@
 
   Get in touch:<br>
   
-<a href="https://wa.me/6283129621297?text=Hii" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=social&logo=whatsapp" /></a>
 <a href="https://www.instagram.com/fahmihdytllah/" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=social&logo=instagram" /></a>
 <a href="https://www.facebook.com/fahmicoeg" target="blank"><img src="https://img.shields.io/badge/Facebook-30302f?style=social&logo=facebook" /></a>
 <a href="https://www.twitter.com/fahmicog" target="blank"><img src="https://img.shields.io/badge/Twitter-30302f?style=social&logo=twitter" /></a>
