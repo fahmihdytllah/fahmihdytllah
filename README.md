@@ -51,5 +51,5 @@
 
 <details>
   <summary>My Languages in Github</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmihdytllah" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmihdytllah&theme=tokyonight" />
 </details>
