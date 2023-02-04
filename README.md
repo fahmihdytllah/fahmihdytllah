@@ -6,6 +6,7 @@
 <code><img src="https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=Laravel" /></code>
 <code><img src="https://img.shields.io/badge/-Express.Js-black?style=flat-square&logo=Express" /></code>
 <code><img src="https://img.shields.io/badge/-JQuery-black?style=flat-square&logo=Jquery" /></code>
+<code><img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=Bootstrap" /></code>
 <code><img src="https://img.shields.io/badge/-Socket.Io-black?style=flat-square&logo=socket.io" /></code>
 <code><img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django" /></code>
 
