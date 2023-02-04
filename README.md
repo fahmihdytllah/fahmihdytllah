@@ -33,11 +33,11 @@
   
 <a href="https://www.instagram.com/fahmihdytllah/" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=social&logo=instagram" /></a>
 <a href="https://www.facebook.com/fahmicoeg" target="blank"><img src="https://img.shields.io/badge/Facebook-30302f?style=social&logo=facebook" /></a>
-<a href="https://www.twitter.com/fahmicog" target="blank"><img src="https://img.shields.io/badge/Twitter-30302f?style=social&logo=twitter" /></a>
+<a href="https://www.twitter.com/fahmihdytllah" target="blank"><img src="https://img.shields.io/badge/Twitter-30302f?style=social&logo=twitter" /></a>
 <a href="https://www.youtube.com/c/JagoCode" target="blank"><img src="https://img.shields.io/badge/Youtube-30302f?style=social&logo=youtube" /></a>
 <br><br><br>
 
-  Made with ♥ in Jatim, Indonesia
+  Made with ♥ in East Java, Indonesia
   <br>
   <a href="https://fahmihdytlloh.web.app" style="color: #2E3440;">fahmihdytlloh.web.app</a>
 </div>
