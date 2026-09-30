@@ -1,55 +1,71 @@
-![Fahmi Hdytllah](https://cardivo.vercel.app/api?name=Fahmi%20Hdytllah&description=Hi,%20i%27m%20a%20Full-Stack%20Web%20Developer%20and%20i%27m%2019%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://i.ibb.co/9VRCKML/1643300046374.jpg=4&backgroundColor=%23ecf0f1&instagram=fahmihdytllah&github=fahmihdytllah&twitter=fahmicog&pattern=leaf&colorPattern=%23eaeaea)
+# Hey, I'm Fahmi 👋
 
-<div align="center">
-  Hello, I am a Full Stack Developer. I have experience as a web developer both backend and frontend in developing web applications.<br><br>
-  
-<code><img src="https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=Laravel" /></code>
-<code><img src="https://img.shields.io/badge/-Express.Js-black?style=flat-square&logo=Express" /></code>
-<code><img src="https://img.shields.io/badge/-JQuery-black?style=flat-square&logo=Jquery" /></code>
-<code><img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=Bootstrap" /></code>
-<code><img src="https://img.shields.io/badge/-Socket.Io-black?style=flat-square&logo=socket.io" /></code>
-<code><img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django" /></code>
+**Software Engineer · Backend · Full-Stack · Builder**
 
-<code><img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=Php" /></code>
-<code><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" /></code>
-<code><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" /></code>
-<code><img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" /></code>
-<code><img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" /></code>
-<code><img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongoDB" /></code>
-<code><img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" /></code>
-<code><img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=e34f26" /></code>
-<code><img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572b6" /></code>
-<code><img src="https://img.shields.io/badge/-EJS-black?style=flat-square&logo=ejs" /></code>
+I build web applications, APIs, automation tools, and occasionally things that probably didn't need to exist.
+Mostly working with **Laravel, PHP, Node.js, Go, React, Vue, and Flutter**.
 
-<code><img src="https://img.shields.io/badge/-GIT-black?style=flat-square&logo=git" /></code>
-<code><img src="https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm" /></code>
-<code><img src="https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase" /></code>
+```text
+Build → Ship → Break → Fix → Repeat
+```
 
+### 🛠️ What I Work With
 
- <img src="https://komarev.com/ghpvc/?username=fahmihdytllah" />
- <br><br>
+**Backend**
 
-  Get in touch:<br>
-  
-<a href="https://www.instagram.com/fahmihdytllah/" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=social&logo=instagram" /></a>
-<a href="https://www.facebook.com/fahmicoeg" target="blank"><img src="https://img.shields.io/badge/Facebook-30302f?style=social&logo=facebook" /></a>
-<a href="https://www.twitter.com/fahmihdytllah" target="blank"><img src="https://img.shields.io/badge/Twitter-30302f?style=social&logo=twitter" /></a>
-<a href="https://www.youtube.com/c/JagoCode" target="blank"><img src="https://img.shields.io/badge/Youtube-30302f?style=social&logo=youtube" /></a>
-<br><br><br>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square\&logo=laravel\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square\&logo=go\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
 
-  Made with ♥ in East Java, Indonesia
-  <br>
-  <a href="https://fahmihdytlloh.web.app" style="color: #2E3440;">fahmihdytlloh.web.app</a>
-</div>
+**Frontend & Mobile**
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square\&logo=vuedotjs\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
 
-<details>
-  <summary>My stats in Github</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=fahmihdytllah&count_private=true&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=fahmihdytllah">
-</details>
+**Infrastructure & Tools**
 
-<details>
-  <summary>My Languages in Github</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmihdytllah&theme=tokyonight" />
-</details>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
+
+---
+
+### 🚧 Currently Building
+
+Some things are public.
+Some are still somewhere between **"this is a good idea"** and **"why did I build this?"**
+
+* 📨 **Blastly** — social media publishing & automation
+* 🧰 **OneTools** — simple web utilities
+* 🧪 Experiments, APIs & developer tooling
+
+---
+
+### 💭 How I Like to Build
+
+> Keep it simple.
+> Make it useful.
+> Automate the boring stuff.
+> Ship before it's perfect.
+
+I enjoy working on products where **engineering meets automation** — especially when a repetitive process can be turned into a few lines of code.
+
+---
+
+### 📫 Find Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-fahmihdytllah-181717?style=flat-square\&logo=github)](https://github.com/fahmihdytllah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fahmi_Hidayatulloh-0A66C2?style=flat-square\&logo=linkedin)](https://www.linkedin.com/)
+
+<br>
+
+<sub>Building quietly. Shipping occasionally. Learning constantly.</sub>
