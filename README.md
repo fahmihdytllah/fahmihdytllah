@@ -39,17 +39,6 @@ Build → Ship → Break → Fix → Repeat
 
 ---
 
-### 🚧 Currently Building
-
-Some things are public.
-Some are still somewhere between **"this is a good idea"** and **"why did I build this?"**
-
-* 📨 **Blastly** — social media publishing & automation
-* 🧰 **OneTools** — simple web utilities
-* 🧪 Experiments, APIs & developer tooling
-
----
-
 ### 💭 How I Like to Build
 
 > Keep it simple.
